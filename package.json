@@ -1,0 +1,27 @@
+{
+  "name": "pub-sub",
+  "version": "1.0.0",
+  "description": "minimal pub sub in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UthaiahBollera/pub-sub.git"
+  },
+  "keywords": [
+    "pubsub.js",
+    "pub",
+    "sub",
+    "event",
+    "management",
+    "js"
+  ],
+  "author": "bollera.sanju@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UthaiahBollera/pub-sub/issues"
+  },
+  "homepage": "https://github.com/UthaiahBollera/pub-sub#readme"
+}
