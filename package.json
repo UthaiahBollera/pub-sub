@@ -1,5 +1,5 @@
 {
-  "name": "pub-sub",
+  "name": "pubsub-js",
   "version": "1.0.0",
   "description": "minimal pub sub in javascript",
   "main": "index.js",
